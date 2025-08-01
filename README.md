@@ -63,12 +63,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/30+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/7+-Projects-31C442?style=for-the-badge&logo=github&logoColor=white"/>
         <br />
         <small>Completed Projects</small>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/10+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/2+-Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
         <br />
         <small>Open Source Contributions</small>
       </td>
@@ -79,7 +79,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srihari-976&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunatha-96&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
