@@ -79,20 +79,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunatha-96&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunatha-9611&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manjunatha-96&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunatha-96&layout=compact&theme=dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manjunatha-9611&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunatha-9611&layout=compact&theme=dark&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manjunatha-96&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manjunatha-9611&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjunatha-96&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjunatha-9611&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
