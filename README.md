@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Manjunatha;Java+Full+Stack+Development;Open+Source+Contributor;Tech+Enthusiast;LLM+Learner" alt="Typing SVG" />
   </a>
 </h1>
-<p>Check out my portfolio</p><a>https://portfolio-7of02z9ea-manjunathas-projects-27814495.vercel.app/</a>
+<p>Check out my portfolio - <a>https://portfolio-7of02z9ea-manjunathas-projects-27814495.vercel.app/</a></p><br>
 # 💫 About Me:
 <img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
 👨‍💻Aspiring Software Developer and Full Stack Enthusiast with strong skills in Java, Python, and web technologies.<br>🎓 B.Tech student at Presidency University, Bangalore, specializing in Computer Science.<br>🚀 Developed and passionate about building scalable software solutions, AI, and LLMs.<br>💼 Experienced through internships, hackathons, and projects in full-stack development and deep learning.<br>💻 Proficient in Python, Java, and web technologies like React.<br>🏆 Actively participate in hackathons and coding competitions, showcasing problem-solving and teamwork skills.<br>📚 Passionate about continuous learning and collaborating on impactful projects.<br><br>
