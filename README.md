@@ -6,7 +6,24 @@
 <p>Check out my portfolio - https://portfolio-sand-zeta-bt3a21daxm.vercel.app/</p><br>
 # 💫 About Me:
 <img align="right" width="300" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
-👨‍💻Aspiring Software Developer and Full Stack Enthusiast with strong skills in Java, Python, and web technologies.<br>🎓 B.Tech student at Presidency University, Bangalore, specializing in Computer Science.<br>🚀 Developed and passionate about building scalable software solutions, AI, and LLMs.<br>💼 Experienced through internships, hackathons, and projects in full-stack development and deep learning.<br>💻 Proficient in Python, Java, and web technologies like React.<br>🏆 Actively participate in hackathons and coding competitions, showcasing problem-solving and teamwork skills.<br>📚 Passionate about continuous learning and collaborating on impactful projects.<br><br>
+
+🎯 Aspiring Software Developer focused on **Java Full Stack Development** and problem solving.<br>
+
+☕ Currently strengthening my skills in **Java, OOP, J2EE, JDBC, Servlets, JSP, Spring Boot, REST APIs, and SQL**.<br>
+
+🧠 Practicing **Data Structures & Algorithms in Java** and documenting my problem-solving journey from fundamentals to advanced topics.<br>
+
+🌐 Building and improving full-stack applications using **Java, Spring Boot, JavaScript, React, HTML, CSS, and MySQL**.<br>
+
+🛠️ I believe in **learning by building** — every concept I learn is followed by implementation, coding practice, or a project.<br>
+
+📚 This GitHub documents my **learning progress, DSA solutions, Java implementations, SQL practice, and full-stack projects**.<br>
+
+🚀 Currently rebuilding my existing projects and continuously improving them as I progress through my **Java Full Stack journey**.<br>
+
+🤝 Open to learning, collaborating, contributing to projects, and connecting with fellow developers.<br>
+
+📈 Goal: Become a strong **Software Developer** with solid fundamentals, problem-solving ability, and real-world development experience.<br><br>
 
 
 ## 🛠️ Tech Arsenal
