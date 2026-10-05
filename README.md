@@ -108,7 +108,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 🤝 Connect With Me
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sand-zeta-bt3a21daxm.vercel.app%2F&urlhash=XRlP&mt=LuzJ3BCRDiqHtbKxPNV0AvBQ4GDFDslYazJ_JqbZRQMl5qQAsdaBeiBiL8-wJJh2Ca15bXJWR8XQ6wgV-fAOm_4zLA9V&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmagr%2B74OTaS6QDEIzhS4wA%3D%3D/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manju_s_p1128/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunatha-92416a315/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sand-zeta-bt3a21daxm.vercel.app%2F&urlhash=XRlP&mt=LuzJ3BCRDiqHtbKxPNV0AvBQ4GDFDslYazJ_JqbZRQMl5qQAsdaBeiBiL8-wJJh2Ca15bXJWR8XQ6wgV-fAOm_4zLA9V&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmagr%2B74OTaS6QDEIzhS4wA%3D%3D/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manjunatha_s_pujari/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunatha-92416a315/)
 
 ---
 <p align="center">
